@@ -11,4 +11,8 @@ JSON for results for a specific area code
 http://localhost:5000/resultsForArea/<area_code>
 You can limit the results by appending /<limit> to the url
 
+Running programs - 
+1. pip install -r requirements.txt
+2. python app.py
+
 
